@@ -4,7 +4,7 @@ I’m Qingzhe Gao. I’m interested in research and game.
 
 
 - 👉 [My HomePage](https://talegqz.github.io/)
-- 🔭 [My Steam](https://steamcommunity.com/profiles/76561198109259673/)
+<!-- - 🔭 [My Steam](https://steamcommunity.com/profiles/76561198109259673/) -->
 <!--
 **Talegqz/Talegqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
